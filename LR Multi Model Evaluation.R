@@ -401,7 +401,7 @@ server <- function(input, output, session) {
                            choices = c(Comma = ",",
                                        Semicolon = ";",
                                        Tab = "\t"),
-                           selected = ","),
+                           selected = ",")
             )
           ),
           column(
